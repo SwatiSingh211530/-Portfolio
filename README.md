@@ -41,16 +41,15 @@ portfolio
 
 └─ README.md
 
-
-
+---
 1️⃣ Clone the repo
-```bash
 git clone https://github.com/SwatiSingh211530/portfolio.git
 cd portfolio
 Install dependencies
 npm install
 
 3️⃣ Run locally
+
 npm run dev
 
 
