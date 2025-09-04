@@ -6,7 +6,7 @@ import { fadeIn } from "../../framerMotion/variants";
 const experiences = [
   {
     job: "Android Developer Intern",
-    company: "AICTE (Self Guided)",
+    company: "Eduskills",
     date: "Oct 2024 – Dec 2024",
     responsibilities: [
       "Built simple Android apps using Kotlin and Room Database.",

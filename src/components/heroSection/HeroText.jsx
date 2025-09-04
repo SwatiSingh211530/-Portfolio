@@ -40,7 +40,7 @@ const HeroText = () => {
         className="mt-4"
       >
        <a
-  href="Resume_July"
+  href="https://drive.google.com/file/d/1pdTrTEFqSWPvlSDVMingilDSXsVvJz2Y/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-block px-6 py-3 bg-gradient-to-r from-cyan-500 via-blue-500 to-cyan-400 text-white font-semibold rounded-lg shadow-lg hover:from-blue-600 hover:to-cyan-500 hover:scale-105 transition-all duration-300 border-b-4 border-cyan-700"
