@@ -1,11 +1,11 @@
-# 🚀 Portfolio Website
+🚀 Portfolio Website
 
 This is my personal **Portfolio Website** built using modern web technologies.  
 It showcases my skills, projects, and achievements as a software developer.
 
 ---
 
-## 🔥 Features
+🔥 Features
 - Responsive design with Tailwind CSS
 - Animated UI with Framer Motion
 - Interactive Hero Section with glowing rings
@@ -14,23 +14,35 @@ It showcases my skills, projects, and achievements as a software developer.
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS, Framer Motion, React Icons  
 - **Deployment:** Vercel  
 - **Version Control:** Git + GitHub  
 
 ---
 
-## 📂 Folder Structure
-portfolio/
+ 📂 Folder Structure
+portfolio
+
 ├─ public/ # static assets (images, icons, etc.)
+
 ├─ src/
+
 │ ├─ components/ # reusable UI components
+
 │ ├─ framerMotion/ # animation variants
+
 │ ├─ App.jsx
+
 │ ├─ main.jsx
+
 ├─ package.json
+
+
 └─ README.md
+
+
+
 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/SwatiSingh211530/portfolio.git
